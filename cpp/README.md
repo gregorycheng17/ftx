@@ -1,4 +1,5 @@
 ## Setup cmake
+##test
 ```bash
 mkdir bin
 cd bin
